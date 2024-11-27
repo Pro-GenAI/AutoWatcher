@@ -1,0 +1,11 @@
+gpt-4-turbo-2024-04-09 peeking 100.00%
+gpt-4-turbo-2024-04-09 peeking2 100.00%
+gpt-4-turbo-2024-04-09 two-thieves 50.00%
+gpt-4-turbo-2024-04-09 door 90.00%
+gpt-4-turbo-2024-04-09 car 10.00%
+
+llava-phi3 peeking 70.00%
+llava-phi3 peeking2 80.00%
+llava-phi3 two-thieves 70.00%
+llava-phi3 door 60.00%
+llava-phi3 car 70.00%
