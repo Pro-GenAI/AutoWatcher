@@ -27,7 +27,7 @@ Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
 
 ## :page_facing_up: Research Paper
-A **preprint** of the research paper is available at [paper/paper-AW.md](paper/paper-AW.md) <br>
+The research paper is available at https://doi.org/10.55041/IJSREM33034 <br>
 
 
 ## :rocket: Quick Start
