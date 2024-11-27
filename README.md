@@ -40,11 +40,6 @@ Run the code. <br>
 For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI)** <br>
 
 
-## :hammer_and_wrench: Contributing
-Contributions are welcome! Feel free to create an issue for any bug reports or suggestions. <br>
-To contribute, please star :star: the repository and create an Issue. If I can't solve that, I will allow anyone to create a pull request.<br>
-
-
 ## :identification_card: License
 Copyright &copy; 2024 Praneeth Vadlapati <br>
 Please refer to the [LICENSE](./LICENSE.md) file for more information. <br>
