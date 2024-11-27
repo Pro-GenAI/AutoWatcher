@@ -5,8 +5,8 @@
 ## Real-time context-aware security alert system using LLMs
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-darkgreen.svg?style=for-the-badge)](./LICENSE.md)
+[![DOI](https://img.shields.io/badge/DOI-10.55041/IJSREM33034-darkgreen?style=for-the-badge)](https://doi.org/10.55041/IJSREM33034)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Preprint](https://img.shields.io/badge/Preprint-file-yellow?style=for-the-badge)](paper/paper-AW.md)
 
 > [!NOTE]
 > Please star :star: the repository to show your support. <br>
@@ -22,30 +22,12 @@
 - This project uses existing models for motion detection and human detection,
 	and uses LLMs for real-time context-aware threat prediction.
 
-<!-- **Results**: <br>
-<img src="./files/Result.jpg" alt="Result" width="600"> <br> -->
-
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
 
 
 ## :page_facing_up: Research Paper
 A **preprint** of the research paper is available at [paper/paper-AW.md](paper/paper-AW.md) <br>
-
-## :bookmark_tabs: Citation
-To use my paper for reference, please cite it as below:
-```bibtex
-@misc{vadlapati2024autowatcher,
-	title = {AutoWatcher: real-time context-aware security alert system using LLMs},
-	author = {Vadlapati, Praneeth},
-	year = {2024},
-	month = {May},
-	publisher = {GitHub},
-	journal = {GitHub},
-	url = {https://github.com/Pro-GenAI/AutoWatcher},
-}
-```
-<!-- doi = {10.20944/preprints202410.1164.v1}, -->
 
 
 ## :rocket: Quick Start
