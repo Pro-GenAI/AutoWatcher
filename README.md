@@ -22,8 +22,11 @@
 - This project uses existing models for motion detection and human detection,
 	and uses LLMs for real-time context-aware threat prediction.
 
+AutoWatcher got featured in media at https://quantumzeitgeist.com/ai-powered-surveillance-enhancing-public-safety-with-multimodal-large-language-models/.
 
 Created by Praneeth Vadlapati ([@prane-eth](https://github.com/prane-eth))
+
+If you would like to use AutoWatcher without public attribution, please send the use case and potential impact privately to praneeth.vad@gmail.com.
 
 
 ## :page_facing_up: Research Paper
