@@ -40,7 +40,7 @@ Run the code. <br>
 
 
 ## :computer: More Projects
-For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI)** <br>
+For more projects by Praneeth Vadlapati, see the **[GitHub organization](https://github.com/Pro-GenAI)** <br>
 
 
 ## :identification_card: License
